@@ -1,28 +1,40 @@
-name: Neille Caroline
-favicon: null
-layout_spectrum: 0.5134676396846771
-typography_spectrum: 0.8809473391156644
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5134676396846771
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.6003279620781541
+  brandStrength: 0.4113745156209916
+  rhythmicContrast: 0.9132618103176355
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.4113745156209916
   lightness: 0.09371712920255959
-  saturation: 0.6003279620781541
-  rhythmicContrast: 0.9132618103176355
 purpose: []
+favicon: null
+name: Neille Caroline
+typography_spectrum: 0.8809473391156644
