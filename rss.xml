@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Neille Caroline]]></title>
+        <description><![CDATA[Neille Caroline]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 15:35:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neille Caroline]]></title>
+            <description><![CDATA[<article><h1>Neille Caroline</h1><p>Neille Caroline is a Scotch Connoisseur who is responsible for creating the look and feel of Scotch Culture synonymous with leisurely,, timeless elegance. Scotch Culture is comprised of whisky, fashion, interior design/decor, and jet set experiences. Her audience ranges from established millennials to affluent retirees, ages 27-55. With 8500 instagram followers, her influence has a reach of over 500k scotch/whisky and cigar connoisseurs, fashionistas, and trendsetters across all social media, as well as partnerships and affiliations. Social media: Instagram, Facebook fan page, Twitter, Tumblr, and Pinterest @neillecaroline</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e04198-a2a0-4cbe-b13c-1ccaee76ef29.png"></article>]]></description>
+            <link>urn:uuid:3271c1d8-cd32-482d-a9a7-c713b19c98a3</link>
+            <guid isPermaLink="false">4f4faaf3-29fb-4c65-8925-14128a1f62e7</guid>
+            <pubDate>Sun, 20 Mar 2016 15:35:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
