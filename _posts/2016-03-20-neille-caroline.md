@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Neille Caroline is a Scotch Connoisseur who is responsible for creating the look and feel of Scotch Culture synonymous with leisurely, timeless elegance.Scotch Culture is comprised of whisky, fashion, interior design/decor, and jet set experiences. </>br Social media: Instagram, Facebook fan page, Twitter, Tumblr, and Pinterest @neillecaroline'
-datePublished: '2016-03-20T15:50:09.109Z'
-dateModified: '2016-03-20T15:49:27.438Z'
+datePublished: '2016-03-20T15:50:36.469Z'
+dateModified: '2016-03-20T15:50:17.574Z'
 author: []
 title: Neille Caroline
 sourcePath: _posts/2016-03-20-neille-caroline.md
