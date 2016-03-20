@@ -6,9 +6,9 @@ isBasedOnUrl: 'urn:uuid:3271c1d8-cd32-482d-a9a7-c713b19c98a3'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Neille Caroline is a Scotch Connoisseur who is responsible for creating the look and feel of Scotch Culture synonymous with leisurely, timeless elegance.Scotch Culture is comprised of whisky, fashion, interior design/decor, and jet set experiences. Her audience ranges from established millennials to affluent retirees, ages 27-55. With 8500 instagram followers, her influence has a reach of over 500k scotch/whisky and cigar connoisseurs, fashionistas, and trendsetters across all social media, as well as partnerships and affiliations. Social media: Instagram, Facebook fan page, Twitter, Tumblr, and Pinterest @neillecaroline'
-datePublished: '2016-03-20T15:46:39.116Z'
-dateModified: '2016-03-20T15:46:28.612Z'
+description: 'Neille Caroline is a Scotch Connoisseur who is responsible for creating the look and feel of Scotch Culture synonymous with leisurely, timeless elegance.Scotch Culture is comprised of whisky, fashion, interior design/decor, and jet set experiences. </>br Social media: Instagram, Facebook fan page, Twitter, Tumblr, and Pinterest @neillecaroline'
+datePublished: '2016-03-20T15:50:09.109Z'
+dateModified: '2016-03-20T15:49:27.438Z'
 author: []
 title: Neille Caroline
 sourcePath: _posts/2016-03-20-neille-caroline.md
