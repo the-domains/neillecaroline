@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Neille Caroline
+favicon: null
+layout_spectrum: 0.5134676396846771
+typography_spectrum: 0.8809473391156644
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5134676396846771
+title: Neille Caroline
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6003279620781541
-  brandStrength: 0.4113745156209916
-  rhythmicContrast: 0.9132618103176355
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.4113745156209916
   lightness: 0.09371712920255959
+  saturation: 0.6003279620781541
+  rhythmicContrast: 0.9132618103176355
 purpose: []
-favicon: null
-name: Neille Caroline
-typography_spectrum: 0.8809473391156644
