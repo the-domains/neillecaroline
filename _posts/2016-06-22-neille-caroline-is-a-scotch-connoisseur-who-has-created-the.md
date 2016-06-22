@@ -10,8 +10,8 @@ description: >-
   lifestyle includes whisky, fashion, interior design, and jet-set experiences.
   Follow along on the adventure through social media: Instagram, Twitter,
   Facebook, Snapchat, Tumblr, Pinterest @neillecaroline
-datePublished: '2016-06-22T22:12:32.390Z'
-dateModified: '2016-06-22T22:11:48.590Z'
+datePublished: '2016-06-22T22:16:39.994Z'
+dateModified: '2016-06-22T22:16:22.886Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +20,7 @@ sourcePath: >-
   _posts/2016-06-22-neille-caroline-is-a-scotch-connoisseur-who-has-created-the.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: neille-caroline-is-a-scotch-connoisseur-who-has-created-the/index.html
 _type: Article
 
