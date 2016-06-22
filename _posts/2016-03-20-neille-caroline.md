@@ -6,8 +6,8 @@ isBasedOnUrl: 'urn:uuid:3271c1d8-cd32-482d-a9a7-c713b19c98a3'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-22T21:32:34.116Z'
-dateModified: '2016-06-22T21:32:07.358Z'
+datePublished: '2016-06-22T21:39:01.503Z'
+dateModified: '2016-06-22T21:38:25.072Z'
 author: []
 title: Neille Caroline
 sourcePath: _posts/2016-03-20-neille-caroline.md
