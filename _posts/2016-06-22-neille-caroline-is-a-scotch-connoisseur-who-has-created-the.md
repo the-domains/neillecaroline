@@ -10,8 +10,8 @@ description: >-
   lifestyle includes whisky, fashion, interior design, and jet-set experiences.
   Follow along on the adventure through social media: Instagram, Twitter,
   Facebook, Snapchat, Tumblr, Pinterest @neillecaroline
-datePublished: '2016-06-22T22:07:21.541Z'
-dateModified: '2016-06-22T22:07:14.483Z'
+datePublished: '2016-06-22T22:07:42.174Z'
+dateModified: '2016-06-22T22:07:30.656Z'
 title: neillecaroline
 author:
   - name: ''
