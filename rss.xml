@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Neille Caroline]]></title>
-        <description><![CDATA[Neille Caroline]]></description>
+        <title><![CDATA[Scotch & Adventure]]></title>
+        <description><![CDATA[Scotch & Adventure]]></description>
         <link>http://neillecaroline.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 22:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 02:28:44 GMT</lastBuildDate>
         <atom:link href="http://neillecaroline.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[neillecaroline]]></title>
@@ -12,13 +12,6 @@
             <link>http://neillecaroline.com/neille-caroline-is-a-scotch-connoisseur-who-has-created-the/index.html</link>
             <guid isPermaLink="false">052569f4-5019-4685-87a4-09f867661673</guid>
             <pubDate>Wed, 22 Jun 2016 22:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take Me Home LA Scotch Tasting and Private Art Tour]]></title>
-            <description><![CDATA[<article><h1>Take Me Home LA Scotch Tasting and Private Art Tour</h1><p>Tickets available at langleyscr.com http://bit.ly/24NlnTM</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5969290-307c-4f0c-a29d-47e6ef52eab0.jpg"></article>]]></description>
-            <link>http://neillecaroline.com/take-me-home-la-scotch-tasting-and-private-art-tour/index.html</link>
-            <guid isPermaLink="false">119040ad-f5c7-4543-bca3-eb6397d8b42f</guid>
-            <pubDate>Wed, 22 Jun 2016 22:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
