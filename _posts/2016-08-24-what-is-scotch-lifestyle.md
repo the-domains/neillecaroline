@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T02:39:56.225Z'
+datePublished: '2016-08-24T03:02:36.199Z'
 sourcePath: _posts/2016-08-24-what-is-scotch-lifestyle.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T02:39:55.544Z'
+dateModified: '2016-08-24T03:02:35.816Z'
 title: ''
 publisher: {}
 description: >-
@@ -25,3 +25,7 @@ _type: Blurb
 Slow down, take time away from the daily grind, and savor each leisurely moment. Indulge in the company of stylish, creative, intellectuals while enjoying quality libations paired with intriguing cuisine.
 
 From fashion and lifestyle to scotch and adventure, Neille Caroline ties it all together to show you just what Scotch Lifestyle entails.
+
+Gain access to exclusive events and weekly tastings with [Langley Social Club & Regatta][0]. Follow along with fashion and lifestyle posts on Instagram, scotch and whiskey updates on Twitter, travel and inspiration on Tumblr, and much more on Pinterest with @neillecaroline and scotch culture with @langleysocial on Instagram and Twitter.
+
+[0]: http://langleyscr.com/ "Langley Social"
