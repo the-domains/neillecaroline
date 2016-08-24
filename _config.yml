@@ -1,7 +1,34 @@
-name: Neille Caroline
-favicon: null
-layout_spectrum: 0.67582
 typography_spectrum: 0.12607
+color:
+  brandColors:
+    - '#4f4f4f'
+    - '#030106'
+    - '#fefcfe'
+    - '#d5c6bf'
+    - '#b37967'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67582
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Neille Caroline
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Langley Social Club
+    url: 'http://langleyscr.com'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -14,28 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Scotch & Adenture
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#4f4f4f'
-    - '#030106'
-    - '#fefcfe'
-    - '#d5c6bf'
-    - '#b37967'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.8125
-  rhythmicContrast: 0.25
+title: Scotch & Adventure
 purpose: []
