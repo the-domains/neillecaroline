@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T02:34:30.803Z'
+datePublished: '2016-08-24T02:39:56.225Z'
 sourcePath: _posts/2016-08-24-what-is-scotch-lifestyle.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T02:34:30.358Z'
+dateModified: '2016-08-24T02:39:55.544Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,4 +24,4 @@ _type: Blurb
 
 Slow down, take time away from the daily grind, and savor each leisurely moment. Indulge in the company of stylish, creative, intellectuals while enjoying quality libations paired with intriguing cuisine.
 
-Neille Caroline takes you out of your comfort zone. From fashion and lifestyle to scotch and adventure, she ties it all together to help you live well, look great, and savor your nightcap after a hard day's work.
+From fashion and lifestyle to scotch and adventure, Neille Caroline ties it all together to show you just what Scotch Lifestyle entails.
